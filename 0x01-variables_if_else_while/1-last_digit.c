@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - CHECKS IF THE LAST DIGIT OF A NUMBER IS LESS THAN 5, EQUAL TO ZERO OR LESS THAN 5 BUT NOT EQUAL TO ZERO.
+ * main - CHECKS IF THE LAST DIGIT OF A NUMBER IS <5, = TO ZERO OR <5 BUT != TO ZERO.
  * Return: Always 0 (Success).
  */
 
