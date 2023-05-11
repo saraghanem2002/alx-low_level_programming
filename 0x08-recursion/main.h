@@ -15,3 +15,5 @@ int _sqrt_recursion(int n);
 int is_prime_number(int n);
 
 int helperMethod1(int n, int x);
+
+int isPrime(int n, int x);
